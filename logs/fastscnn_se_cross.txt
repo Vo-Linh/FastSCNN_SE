@@ -1,0 +1,199 @@
+Loss: 0.6220 IoU: 0.7041
+Epoch 52
+Lr: 7.30977265128775e-05
+Training loss: 0.5901
+Loss: 0.6220 IoU: 0.7033
+Epoch 53
+Lr: 6.94428401872336e-05
+Training loss: 0.5886
+Loss: 0.6217 IoU: 0.7047
+Epoch 54
+Lr: 6.597069817787194e-05
+Training loss: 0.5875
+Loss: 0.6214 IoU: 0.7038
+Epoch 55
+Lr: 6.267216326897833e-05
+Training loss: 0.5870
+Loss: 0.6212 IoU: 0.7053
+Epoch 56
+Lr: 5.953855510552941e-05
+Training loss: 0.5868
+Loss: 0.6214 IoU: 0.7047
+Epoch 57
+Lr: 5.656162735025293e-05
+Training loss: 0.5869
+Loss: 0.6206 IoU: 0.7058
+Epoch 58
+Lr: 5.373354598274029e-05
+Training loss: 0.5861
+Loss: 0.6208 IoU: 0.7045
+Epoch 59
+Lr: 5.1046868683603266e-05
+Training loss: 0.5861
+Loss: 0.6204 IoU: 0.7045
+Epoch 60
+Lr: 4.8494525249423105e-05
+Training loss: 0.5844
+Loss: 0.6204 IoU: 0.7035
+Epoch 61
+Lr: 4.6069798986951947e-05
+Training loss: 0.5837
+Loss: 0.6199 IoU: 0.7058
+Epoch 62
+Lr: 4.3766309037604346e-05
+Training loss: 0.5835
+Loss: 0.6203 IoU: 0.7026
+Epoch 63
+Lr: 4.157799358572413e-05
+Training loss: 0.5843
+Loss: 0.6203 IoU: 0.7050
+Epoch 64
+Lr: 3.949909390643792e-05
+Training loss: 0.5826
+Loss: 0.6200 IoU: 0.7049
+Epoch 65
+Lr: 3.752413921111602e-05
+Training loss: 0.5828
+Loss: 0.6199 IoU: 0.7056
+Epoch 66
+Lr: 3.564793225056022e-05
+Training loss: 0.5814
+Loss: 0.6197 IoU: 0.7048
+Epoch 67
+Lr: 3.386553563803221e-05
+Training loss: 0.5817
+Loss: 0.6195 IoU: 0.7051
+Epoch 68
+Lr: 3.217225885613059e-05
+Training loss: 0.5814
+Loss: 0.6200 IoU: 0.7039
+Epoch 69
+Lr: 3.0563645913324066e-05
+Training loss: 0.5801
+Loss: 0.6198 IoU: 0.7040
+Epoch 70
+Lr: 2.903546361765786e-05
+Training loss: 0.5810
+Loss: 0.6197 IoU: 0.7056
+Epoch 71
+Lr: 2.7583690436774966e-05
+Training loss: 0.5803
+Loss: 0.6195 IoU: 0.7062
+Epoch 72
+Lr: 2.6204505914936218e-05
+Training loss: 0.5797
+Loss: 0.6193 IoU: 0.7052
+Epoch 73
+Lr: 2.4894280619189404e-05
+Training loss: 0.5800
+Loss: 0.6194 IoU: 0.7062
+Epoch 74
+Lr: 2.3649566588229933e-05
+Training loss: 0.5800
+Loss: 0.6193 IoU: 0.7046
+Epoch 75
+Lr: 2.2467088258818436e-05
+Training loss: 0.5792
+Loss: 0.6194 IoU: 0.7064
+Epoch 76
+Lr: 2.134373384587751e-05
+Training loss: 0.5795
+Loss: 0.6192 IoU: 0.7063
+Epoch 77
+Lr: 2.0276547153583635e-05
+Training loss: 0.5785
+Loss: 0.6191 IoU: 0.7051
+Epoch 78
+Lr: 1.9262719795904453e-05
+Training loss: 0.5782
+Loss: 0.6191 IoU: 0.7063
+Epoch 79
+Lr: 1.8299583806109228e-05
+Training loss: 0.5781
+Loss: 0.6192 IoU: 0.7065
+Epoch 80
+Lr: 1.7384604615803768e-05
+Training loss: 0.5799
+Loss: 0.6196 IoU: 0.7061
+Epoch 81
+Lr: 1.651537438501358e-05
+Training loss: 0.5778
+Loss: 0.6192 IoU: 0.7054
+Epoch 82
+Lr: 1.56896056657629e-05
+Training loss: 0.5781
+Loss: 0.6193 IoU: 0.7056
+Epoch 83
+Lr: 1.4905125382474753e-05
+Training loss: 0.5782
+Loss: 0.6191 IoU: 0.7059
+Epoch 84
+Lr: 1.4159869113351015e-05
+Training loss: 0.5772
+source /opt/conda/bin/activate base
+Loss: 0.6194 IoU: 0.7053
+Epoch 85
+Lr: 1.3451875657683464e-05
+Training loss: 0.5768
+Loss: 0.6194 IoU: 0.7059
+Epoch 86
+Lr: 1.2779281874799288e-05
+Training loss: 0.5764
+Loss: 0.6192 IoU: 0.7050
+Epoch 87
+Lr: 1.2140317781059324e-05
+Training loss: 0.5765
+Loss: 0.6192 IoU: 0.7060
+Epoch 88
+Lr: 1.1533301892006358e-05
+Training loss: 0.5769
+Loss: 0.6192 IoU: 0.7062
+Epoch 89
+Lr: 1.095663679740604e-05
+Training loss: 0.5772
+Loss: 0.6192 IoU: 0.7062
+Epoch 90
+Lr: 1.0408804957535738e-05
+Training loss: 0.5768
+Loss: 0.6192 IoU: 0.7053
+Epoch 91
+Lr: 9.88836470965895e-06
+Training loss: 0.5763
+Loss: 0.6193 IoU: 0.7050
+Epoch 92
+Lr: 9.393946474176e-06
+Training loss: 0.5761
+Loss: 0.6193 IoU: 0.7058
+Epoch 93
+Lr: 8.924249150467201e-06
+Training loss: 0.5760
+Loss: 0.6196 IoU: 0.7057
+Epoch 94
+Lr: 8.478036692943842e-06
+Training loss: 0.5765
+Loss: 0.6193 IoU: 0.7058
+Epoch 95
+Lr: 8.054134858296648e-06
+Training loss: 0.5763
+Loss: 0.6191 IoU: 0.7062
+Epoch 96
+Lr: 7.651428115381816e-06
+Training loss: 0.5761
+Loss: 0.6192 IoU: 0.7058
+Epoch 97
+Lr: 7.2688567096127245e-06
+Training loss: 0.5760
+Loss: 0.6193 IoU: 0.7059
+Epoch 98
+Lr: 6.905413874132088e-06
+Training loss: 0.5761
+Loss: 0.6195 IoU: 0.7063
+Epoch 99
+Lr: 6.560143180425483e-06
+Training loss: 0.5756
+Loss: 0.6193 IoU: 0.7061
+Epoch 100
+Lr: 6.2321360214042085e-06
+Training loss: 0.5758
+Loss: 0.6193 IoU: 0.7052
+Max mean IoU 0.726527173065416

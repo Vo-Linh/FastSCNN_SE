@@ -1,0 +1,100 @@
+Training loss: 0.8271
+Loss: 0.8176 IoU: 0.6989
+Training loss: 0.8126
+Loss: 0.8129 IoU: 0.7166
+Training loss: 0.8109
+Loss: 0.8135 IoU: 0.7066
+Training loss: 0.8097
+Loss: 0.8145 IoU: 0.6998
+Training loss: 0.8109
+Loss: 0.8129 IoU: 0.7043
+Training loss: 0.8096
+Loss: 0.8142 IoU: 0.7032
+Training loss: 0.8091
+Loss: 0.8149 IoU: 0.7007
+Training loss: 0.8073
+Loss: 0.8110 IoU: 0.7090
+Training loss: 0.8091
+Loss: 0.8128 IoU: 0.6897
+Training loss: 0.8092
+Loss: 0.8158 IoU: 0.6990
+Training loss: 0.8074
+Loss: 0.8142 IoU: 0.6899
+Training loss: 0.8064
+Loss: 0.8106 IoU: 0.6670
+Training loss: 0.8071
+Loss: 0.8102 IoU: 0.7158
+Training loss: 0.8081
+Loss: 0.8107 IoU: 0.7108
+Training loss: 0.8080
+Loss: 0.8119 IoU: 0.7080
+Training loss: 0.8073
+Loss: 0.8122 IoU: 0.7155
+Training loss: 0.8073
+Loss: 0.8109 IoU: 0.7031
+Training loss: 0.8078
+Loss: 0.8088 IoU: 0.7094
+Training loss: 0.8085
+Loss: 0.8137 IoU: 0.6893
+Training loss: 0.8075
+Loss: 0.8113 IoU: 0.6926
+Training loss: 0.8070
+Loss: 0.8075 IoU: 0.7049
+Training loss: 0.8078
+Loss: 0.8094 IoU: 0.6837
+Training loss: 0.8075
+Loss: 0.8096 IoU: 0.7106
+Training loss: 0.8067
+Loss: 0.8139 IoU: 0.7003
+Training loss: 0.8075
+Loss: 0.8142 IoU: 0.6624
+Training loss: 0.8070
+Loss: 0.8133 IoU: 0.6935
+Training loss: 0.8075
+Loss: 0.8084 IoU: 0.7113
+Training loss: 0.8075
+Loss: 0.8133 IoU: 0.6968
+Training loss: 0.8071
+Loss: 0.8133 IoU: 0.7219
+Training loss: 0.8068
+Loss: 0.8142 IoU: 0.6911
+Training loss: 0.8043
+Loss: 0.8111 IoU: 0.7199
+Training loss: 0.8051
+Loss: 0.8108 IoU: 0.7154
+Training loss: 0.8063
+Loss: 0.8091 IoU: 0.6940
+Training loss: 0.8060
+Loss: 0.8074 IoU: 0.7107
+Training loss: 0.8065
+Loss: 0.8132 IoU: 0.6855
+Training loss: 0.8065
+Loss: 0.8107 IoU: 0.7023
+Training loss: 0.8072
+Loss: 0.8088 IoU: 0.7086
+Training loss: 0.8068
+Loss: 0.8117 IoU: 0.6655
+Training loss: 0.8069
+Loss: 0.8078 IoU: 0.7050
+Training loss: 0.8081
+Loss: 0.8088 IoU: 0.7025
+Training loss: 0.8079
+Loss: 0.8109 IoU: 0.6838
+Training loss: 0.8071
+Loss: 0.8091 IoU: 0.6836
+Training loss: 0.8065
+Loss: 0.8103 IoU: 0.6710
+Training loss: 0.8080
+Loss: 0.8116 IoU: 0.7079
+Training loss: 0.8071
+Loss: 0.8088 IoU: 0.6971
+Training loss: 0.8082
+Loss: 0.8128 IoU: 0.7066
+Training loss: 0.8077
+Loss: 0.8106 IoU: 0.7012
+Training loss: 0.8081
+Loss: 0.8087 IoU: 0.7112
+Training loss: 0.8065
+Loss: 0.8112 IoU: 0.6949
+Training loss: 0.8071
+Loss: 0.8086 IoU: 0.6937
