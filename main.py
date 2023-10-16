@@ -12,23 +12,22 @@ from sklearn.model_selection import train_test_split
 
 from src.dataset import PandaSet
 from utils.training import train_one_epoch
-from utils.meanIoU import meanIOU
+from utils.meanIoU import meanIOU, marco_iou
 from src.losses.dice_loss import DiceLoss
 from src.losses.focal_loss import FocalLoss
 from src.models.fastscnn import FastSCNN
 from src.models.squeesegv2 import SqueezeSegV2
 from src.models.salanext import SalsaNext
-from src.models.pointsegnet import PointSegNet
 from src.models.fastscnn_se import SE_FastSCNN
 
 # ============= HYPERPARAMETER =======================
 BATCH_SIZE = 16
 NUM_EPOCH = 100
-LR = 2e-3
+LR = 1e-3
 NUM_CLASSES = 13
 RAMDOM_SEED = 32
 device = 'cuda:0'
-PATH = 'checkpoints/squeesegv2_focal.pt'
+PATH = 'checkpoints/fastscnn_se_cross.pt'
 # ====================================================
 list_images = os.listdir('./Pandaset/images')
 train_list, valid_list = train_test_split(
@@ -54,9 +53,9 @@ validation_loader = torch.utils.data.DataLoader(
     valid_dataset, batch_size=BATCH_SIZE, shuffle=False)
 
 
-loss_fn = FocalLoss()
-model =  SqueezeSegV2(input_size = (BATCH_SIZE, 5, 64, 1856), num_classes = 13)
-# model = SE_FastSCNN(NUM_CLASSES)
+loss_fn = nn.CrossEntropyLoss()
+# model =  SqueezeSegV2(input_size = (BATCH_SIZE, 5, 64, 1856), num_classes = 13)
+model = SE_FastSCNN(NUM_CLASSES)
 model = model.to(device)
 
 optimizer = torch.optim.Adam(model.parameters(), lr=LR, weight_decay=2e-4)
@@ -68,7 +67,7 @@ scheduler = torch.optim.lr_scheduler.LambdaLR(optimizer, lr_lambda=lambda1)
 val_iou_max = 0.0
 for i in range(NUM_EPOCH):
     val_iou = train_one_epoch(i, training_loader, validation_loader, model,
-                    optimizer, scheduler, loss_fn, meanIOU, device)
+                    optimizer, scheduler, loss_fn, marco_iou, device)
     if val_iou >= val_iou_max:
         val_iou_max = val_iou
         torch.save(model.state_dict(), PATH)

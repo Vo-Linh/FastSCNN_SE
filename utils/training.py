@@ -1,4 +1,5 @@
 import torch
+import numpy as np
 
 def train_one_epoch(epoch_index, training_loader, validation_loader, model, optimizer, 
                     scheduler, loss_fn, eval_fn, device):
@@ -53,3 +54,4 @@ def train_one_epoch(epoch_index, training_loader, validation_loader, model, opti
         print(f"Loss: {loss_val:.4f} IoU: {mean_iou:.4f}")
 
     return mean_iou
+
