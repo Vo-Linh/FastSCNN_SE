@@ -1,0 +1,114 @@
+Epoch 1
+Lr: 0.001
+Training loss: 1.3077
+Loss: 1.0307 IoU: 0.4178
+Epoch 2
+Lr: 0.00095
+Training loss: 0.9640
+Loss: 0.9236 IoU: 0.4400
+Epoch 3
+Lr: 0.0009025
+Training loss: 0.8863
+Loss: 0.8687 IoU: 0.4579
+Epoch 4
+Lr: 0.000857375
+Training loss: 0.8426
+Loss: 0.8334 IoU: 0.4722
+Epoch 5
+Lr: 0.0008145062499999999
+Training loss: 0.8087
+Loss: 0.8014 IoU: 0.4851
+Epoch 6
+Lr: 0.0007737809374999998
+Training loss: 0.7828
+Loss: 0.7803 IoU: 0.4943
+Epoch 7
+Lr: 0.0007350918906249999
+Training loss: 0.7656
+Loss: 0.7601 IoU: 0.5013
+Epoch 8
+Lr: 0.0006983372960937497
+Training loss: 0.7387
+Loss: 0.7426 IoU: 0.5109
+Epoch 9
+Lr: 0.0006634204312890623
+Training loss: 0.7283
+Loss: 0.7413 IoU: 0.5127
+Epoch 10
+Lr: 0.0006302494097246091
+Training loss: 0.7224
+Loss: 0.7328 IoU: 0.5187
+Epoch 11
+Lr: 0.0005987369392383787
+Training loss: 0.7056
+Loss: 0.7108 IoU: 0.5282
+Epoch 12
+Lr: 0.0005688000922764596
+Training loss: 0.6923
+Loss: 0.7037 IoU: 0.5306
+Epoch 13
+Lr: 0.0005403600876626366
+Training loss: 0.6876
+Loss: 0.7058 IoU: 0.5309
+Epoch 14
+Lr: 0.0005133420832795048
+Training loss: 0.6813
+Loss: 0.6918 IoU: 0.5381
+Epoch 15
+Lr: 0.00048767497911552955
+Training loss: 0.6800
+Loss: 0.6986 IoU: 0.5331
+Epoch 16
+Lr: 0.000463291230159753
+Training loss: 0.6702
+Loss: 0.6796 IoU: 0.5448
+Epoch 17
+Lr: 0.00044012666865176535
+Training loss: 0.6614
+Loss: 0.6735 IoU: 0.5481
+Epoch 18
+Lr: 0.0004181203352191771
+Training loss: 0.6572
+Loss: 0.6696 IoU: 0.5524
+Epoch 19
+Lr: 0.0003972143184582182
+Training loss: 0.6550
+Loss: 0.6855 IoU: 0.5451
+Epoch 20
+Lr: 0.00037735360253530727
+Training loss: 0.6529
+Loss: 0.6644 IoU: 0.5568
+Epoch 21
+Lr: 0.0003584859224085419
+Training loss: 0.6437
+Loss: 0.6602 IoU: 0.5559
+Epoch 22
+Lr: 0.0003405616262881148
+Training loss: 0.6392
+Loss: 0.6571 IoU: 0.5610
+Epoch 23
+Lr: 0.000323533544973709
+Training loss: 0.6388
+Loss: 0.6556 IoU: 0.5629
+Epoch 24
+Lr: 0.00030735686772502356
+Training loss: 0.6361
+Loss: 0.6545 IoU: 0.5625
+Epoch 25
+Lr: 0.0002919890243387724
+Training loss: 0.6346
+Loss: 0.6673 IoU: 0.5536
+Epoch 26
+Lr: 0.00027738957312183375
+Training loss: 0.6348
+Loss: 0.6506 IoU: 0.5671
+Epoch 27
+Lr: 0.00026352009446574203
+Training loss: 0.6260
+Loss: 0.6481 IoU: 0.5678
+Epoch 28
+Lr: 0.00025034408974245495
+Training loss: 0.6227
+Loss: 0.6435 IoU: 0.5731
+Epoch 29
+Lr: 0.00023782688525533216
